@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/cyndara/cyndara.github.io.git
 	branch = main
+[submodule "content/blog/public"]
+	path = content/blog/public
+	url = https://github.com/cyndara/cyndara.github.io.git
+	branch = main
