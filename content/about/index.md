@@ -12,7 +12,7 @@ Hello my name is Steph(anie)! I am from Australia but live in Germany. A physici
 * Cats
 * Cats
 * Cats
-* Heat sources
+* Warm places 
 * Meow <3
 
 ## Other Interests
